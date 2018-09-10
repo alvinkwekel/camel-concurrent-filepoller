@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mdw-camel-boot/integrations/carriers/src/test/resources/carriers/steenbergen/STATUS_0083486659.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mdw-camel-boot/integrations/carriers/src/test/resources/carriers/steenbergen/STATUS_0096550486.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mdw-camel-boot/integrations/carriers/src/test/resources/carriers/steenbergen/STATUS_0096605421.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mdw-camel-boot/integrations/carriers/src/test/resources/carriers/steenbergen/STATUS_0096628217.xml" charset="UTF-8" />
+  </component>
+</project>
